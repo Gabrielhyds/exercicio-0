@@ -1,0 +1,13 @@
+git flow init
+
+git config --global user.email "exemplo@gmail.com"
+
+git branch
+
+git flow fature start "nome do arquivo"
+
+git add . 
+
+git commit -m "nome do commit"
+
+git flow feature publish
